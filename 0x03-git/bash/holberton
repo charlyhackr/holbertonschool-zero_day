@@ -1,6 +1,8 @@
-#!/bin/bash
-<<<<<<< HEAD
-echo "Holberton School is so cool"
-=======
+!/bin/bash
+
+
+
 echo "Holberton School"
->>>>>>> update_script
+
+echo "Holberton School is so cool"
+
